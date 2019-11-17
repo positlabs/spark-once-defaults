@@ -4,7 +4,7 @@ Learn how to trigger something once in the patch editor, and use that behavior t
 
 [Tutorial on YouTube](https://www.youtube.com/watch?v=ViH0PycKCgk&feature=youtu.be)
 
-[![screenshot](./screenshot.jpg)]](https://www.youtube.com/watch?v=ViH0PycKCgk&feature=youtu.be)
+[![screenshot](./screenshot.jpg)](https://www.youtube.com/watch?v=ViH0PycKCgk&feature=youtu.be)
 
 ## Resources
 
